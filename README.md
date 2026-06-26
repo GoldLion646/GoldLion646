@@ -1,8 +1,6 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/eli64s/readme-ai/e2a5f0ab93b923a78935178dd165d5019b4a1fbc/docs/docs/assets/svg/logo.svg" width="180px" alt="ReadmeAI"/>
-
-# ✦ ReadmeAI
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=700&lines=AI+Full+Stack+Developer;Building+Scalable+SaaS+%26+AI+Products;Automation+%7C+APIs+%7C+Dashboards" alt="Typing SVG" />
+</div>
 
 > *The last README you'll ever write by hand.*
 
